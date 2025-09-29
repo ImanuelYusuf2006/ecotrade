@@ -146,7 +146,7 @@ Copyright (c) 2025 Imanuel Yusuf
 
 ## 👤 Contact & Acknowledgements
 
-- **Maintainer**: Imanuel Yusuf  
+- **Maintainer**: Andreas Calvin Hartono, Imanuel Yusuf Setio Budi, Jason Wijaya (Group 9)
 - **GitHub**: [ImanuelYusuf2006](https://github.com/ImanuelYusuf2006)  
 - **Acknowledgements**: thanks to open datasets, libraries (`torch`, `tensorflow`, `scikit-learn`, etc.), and contributors  
 
